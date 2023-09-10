@@ -1,10 +1,10 @@
-import ProductManagement from "./ProductManagement/ProductManagement";
+import CategoryManagement from "./CategoryManagement/CategoryManagement";
 import SellerManagement from "./SellerManagement/SellerManagement";
 
 function App() {
   return (
     <div className="App">
-      <ProductManagement />
+      <CategoryManagement />
       <SellerManagement /> 
     </div>
   );

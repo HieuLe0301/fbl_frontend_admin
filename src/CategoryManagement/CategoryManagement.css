@@ -1,0 +1,11 @@
+.is_selected {
+    background-color: red;
+}
+
+#space1 {
+    height: 2rem
+}
+
+.catNameAndDelBut {
+    display: flex
+}
